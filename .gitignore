@@ -1,0 +1,6 @@
+#Ignore text file that list commits
+list-commits.txt
+
+#Ignore text files containing branch commits. * indicates the branch name.
+list-commits-*.txt
+
