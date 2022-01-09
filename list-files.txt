@@ -1,0 +1,38 @@
+Sun Jan  9 21:21:30 AUSEST 2022
+-rw-r--r-- 1 aueva 197609    32 Jan  9 21:21 list-files.txt
+-rw-r--r-- 1 aueva 197609  1206 Jan  9 21:21 list-commits.txt
+-rw-r--r-- 1 aueva 197609  7975 Jan  9 21:18 explorers.html
+-rw-r--r-- 1 aueva 197609 12964 Jan  9 21:09 tours.html
+-rw-r--r-- 1 aueva 197609  8089 Jan  9 21:09 support.html
+-rw-r--r-- 1 aueva 197609 10550 Jan  9 21:09 resources.html
+-rw-r--r-- 1 aueva 197609  6940 Jan  9 21:09 mission.html
+-rw-r--r-- 1 aueva 197609   167 Jan  9 21:09 list-commits-change-numbers.txt
+-rw-r--r-- 1 aueva 197609  6496 Jan  9 21:09 index.html
+-rw-r--r-- 1 aueva 197609 14316 Jan  9 21:09 contact.html
+-rw-r--r-- 1 aueva 197609    13 Jan  9 21:09 README.md
+
+tours:
+total 24
+drwxr-xr-x 1 aueva 197609     0 Jan  9 21:21 ../
+drwxr-xr-x 1 aueva 197609     0 Jan  9 21:20 ./
+-rw-r--r-- 1 aueva 197609  7976 Jan  9 21:09 tour_detail_bigsur.html
+-rw-r--r-- 1 aueva 197609 11398 Jan  9 21:09 tour_detail_backpack_cal.html
+
+resources:
+total 28
+drwxr-xr-x 1 aueva 197609     0 Jan  9 21:21 ../
+drwxr-xr-x 1 aueva 197609     0 Jan  9 21:09 ./
+-rw-r--r-- 1 aueva 197609 23212 Jan  9 21:09 faq.html
+
+explorers:
+total 4
+drwxr-xr-x 1 aueva 197609 0 Jan  9 21:21 ../
+drwxr-xr-x 1 aueva 197609 0 Jan  9 20:22 ./
+
+assets:
+total 12
+drwxr-xr-x 1 aueva 197609 0 Jan  9 21:21 ../
+drwxr-xr-x 1 aueva 197609 0 Jan  9 20:22 images/
+drwxr-xr-x 1 aueva 197609 0 Jan  9 20:22 ./
+drwxr-xr-x 1 aueva 197609 0 Jan  9 20:22 javascripts/
+drwxr-xr-x 1 aueva 197609 0 Jan  9 20:22 stylesheets/
